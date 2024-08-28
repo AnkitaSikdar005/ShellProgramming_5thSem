@@ -1,4 +1,4 @@
-# Operating Systems Lab (PCC-CS592)
+# Operating Systems Lab (PCC-CS592)👩🏻‍💻
 
 ## Overview
 This repository contains lab assignments for the Operating Systems course (PCC-CS592) offered by the Department of Information Technology at Netaji Subhash Engineering College. The exercises cover various aspects of operating systems, including UNIX commands, shell programming, process management, signals, semaphores, POSIX threads, and inter-process communication.
